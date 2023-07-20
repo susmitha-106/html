@@ -1,0 +1,51 @@
+<!doctype html>        -    HTML5 document 
+<html>                 -    root element of an HTML page
+<head>                 -    important information about the HTML page
+
+<title>                -    title for the HTML page ( shown in the browser)
+
+<body>                 -    document's body(in the body we write header,section,
+                            artcicle,images,paragraph,footer,ect...)
+
+<header>               -    used to display headers for sub headings, version information,
+                            navigational cintrols,ect...(header is top of the body)
+
+<p>                    -    paragraph
+<h1>                   -    defines a large heading
+<nav>                  -    contains links or navbar,anchor tags are writing inside the
+                            nav tag .It is usually included inside the header section.
+
+<ol>                   -    ordered list
+<ul>                   -    unordered list
+<li>                   -    list
+<main>                 -    main block on our website.
+
+<details>               -   used to create an interactive widget that the user can open and close 
+                            (showing what inside available).the content of a <details> element 
+                            should not be visible unlesss the open attribute is set
+
+<summary>               -   defines a visible heading for the <details>element. the <summary> 
+                            element should be the first child element of the <details> element.
+
+<article>               -   it is used to represent an article. the content with in the <article>
+                            tag is independent from the other content on the site.this could be 
+                            a magazine of newspaper article, a blog entry ect. in the article we
+                            use header,footer and  write number of paragraphs ect.
+                        
+<section>               -   defines sections in document. Such as chapters,headers,footers,or 
+                            any other sections of the document.
+                            section defines different kind of divisions they can say previoysly 
+                            we are using <div> but right now the <div> place occupied by <section>.
+
+<img>                   -   display the image
+<figure>                -   img tag writing inside the figure tag.the margin padding auto adjusted.
+
+<figcaption>            -   add caption for image it will show bottom of the screen.
+                            figcaption is inside the figure tag
+
+<aside>                  -  we can able to display the text or image or video or audio 
+                            existing text aside.either left or right(using css properties)
+
+<dl>                     -  defines a description list.
+<dt>                     -  defines a term/name in a description list.(Inline elements.)
+<dd>                     -  describe a term/name in a description list.(Inline as well as block-level elements.)
